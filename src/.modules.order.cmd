@@ -1,0 +1,1 @@
+cmd_/home/alfredoa29/Documents/proyect1_so/src/modules.order := {   echo /home/alfredoa29/Documents/proyect1_so/src/main.ko; :; } | awk '!x[$$0]++' - > /home/alfredoa29/Documents/proyect1_so/src/modules.order
